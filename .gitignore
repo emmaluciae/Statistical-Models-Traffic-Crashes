@@ -1,0 +1,4 @@
+data/crashes.csv
+data/*.csv
+data/*.zip
+data/*.rds
