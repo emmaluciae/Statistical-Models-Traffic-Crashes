@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
+=======
+data/crashes.csv
+data/*.csv
+data/*.zip
+data/*.rds
+>>>>>>> 893a4c2efc0d0abb8762771dabaab63d32405956
